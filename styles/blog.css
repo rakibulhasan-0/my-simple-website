@@ -1,4 +1,10 @@
 div{
-    background-color: aliceblue;
+    background-color: rgb(212, 48, 48);
+    text-align: center;
+    text-decoration: aliceblue;
     padding: 30px;
+    margin: 20px;
+}
+.colour{
+    font-style: italic;
 }
